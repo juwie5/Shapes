@@ -1,5 +1,7 @@
-# shapes
-
+# Shapes
+```
+A vue app that draws awesome shapes
+```
 ## Project setup
 ```
 npm install
